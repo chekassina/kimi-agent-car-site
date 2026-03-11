@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://notitlestrikers.com/</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/hero-car.jpg</image:loc>
+      <image:title>No Title Strikers Cars - Premium Exotic Car Dealership</image:title>
+      <image:caption>Discover the world's finest exotic cars at No Title Strikers Cars</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Inventory Section -->
+  <url>
+    <loc>https://notitlestrikers.com/#catalog</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- About Section -->
+  <url>
+    <loc>https://notitlestrikers.com/#about</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://notitlestrikers.com/#contact</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Individual Car Pages - Lamborghini Revuelto -->
+  <url>
+    <loc>https://notitlestrikers.com/car/lamborghini-revuelto</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-lamborghini-revuelto.jpg</image:loc>
+      <image:title>Lamborghini Revuelto - 1001 HP Hybrid Supercar</image:title>
+      <image:caption>The Lamborghini Revuelto is the first HPEV hybrid supercar from Sant'Agata Bolognese</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Ferrari Roma -->
+  <url>
+    <loc>https://notitlestrikers.com/car/ferrari-roma</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-ferrari-roma.jpg</image:loc>
+      <image:title>Ferrari Roma - 612 HP Grand Tourer</image:title>
+      <image:caption>The Ferrari Roma embodies the essence of 1950s and 60s Rome</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Porsche 911 Turbo -->
+  <url>
+    <loc>https://notitlestrikers.com/car/porsche-911-turbo</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-porsche-911.jpg</image:loc>
+      <image:title>Porsche 911 Turbo - 640 HP Sports Car</image:title>
+      <image:caption>The Porsche 911 Turbo represents the pinnacle of the 911 lineup</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- McLaren 750S -->
+  <url>
+    <loc>https://notitlestrikers.com/car/mclaren-750s</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-mclaren-750s.jpg</image:loc>
+      <image:title>McLaren 750S - 740 HP Supercar</image:title>
+      <image:caption>The McLaren 750S is the lightest and most powerful series-production McLaren</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Rolls-Royce Cullinan -->
+  <url>
+    <loc>https://notitlestrikers.com/car/rolls-royce-cullinan</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-rolls-royce-cullinan.jpg</image:loc>
+      <image:title>Rolls-Royce Cullinan Black Badge - 592 HP Luxury SUV</image:title>
+      <image:caption>The ultimate expression of luxury SUV performance and opulence</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Bugatti Chiron -->
+  <url>
+    <loc>https://notitlestrikers.com/car/bugatti-chiron</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-bugatti-chiron.jpg</image:loc>
+      <image:title>Bugatti Chiron Super Sport - 1578 HP Hypercar</image:title>
+      <image:caption>The Bugatti Chiron Super Sport with world-record-breaking speed capabilities</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Aston Martin Vantage -->
+  <url>
+    <loc>https://notitlestrikers.com/car/aston-martin-vantage</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-aston-martin-vantage.jpg</image:loc>
+      <image:title>Aston Martin Vantage - 503 HP Sports Car</image:title>
+      <image:caption>A pure sports car with fierce design and exhilarating performance</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Ferrari 12Cilindri -->
+  <url>
+    <loc>https://notitlestrikers.com/car/ferrari-12cilindri</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-ferrari-12cilindri.jpg</image:loc>
+      <image:title>Ferrari 12Cilindri - 819 HP V12 Supercar</image:title>
+      <image:caption>A front-engined grand tourer celebrating the pure V12 engine</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Maserati MC20 -->
+  <url>
+    <loc>https://notitlestrikers.com/car/maserati-mc20</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-maserati-mc20.jpg</image:loc>
+      <image:title>Maserati MC20 - 621 HP Supercar</image:title>
+      <image:caption>Features the revolutionary Nettuno engine with pre-chamber combustion technology</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Bentley Continental GT -->
+  <url>
+    <loc>https://notitlestrikers.com/car/bentley-continental-gt</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-bentley-continental.jpg</image:loc>
+      <image:title>Bentley Continental GT - 542 HP Luxury Coupe</image:title>
+      <image:caption>Combines handcrafted luxury with exhilarating performance</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Lamborghini Temerario -->
+  <url>
+    <loc>https://notitlestrikers.com/car/lamborghini-temerario</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://notitlestrikers.com/car-lamborghini-temerario.jpg</image:loc>
+      <image:title>Lamborghini Temerario - 907 HP Hybrid Supercar</image:title>
+      <image:caption>The successor to the Huracán featuring a powerful hybrid V8 powertrain</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
